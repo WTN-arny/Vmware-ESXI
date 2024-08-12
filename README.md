@@ -33,9 +33,9 @@ Other payment methods are support via the email, including XMR<br>
 Limited copies are provided for now, price change and/or suspension of sells are possible.<br>
 
 ## Todo:
-** Adding multithreading functionality.
-** Writting a complete analyze.
-** Check if target is vulnerable and save it to file.
+* Adding multithreading functionality.
+* Writting a complete analyze.
+* Check if target is vulnerable and save it to file.
 
 # My Other Works:
 if your interrested in my other works here is the latest which I still consider selling<br>
